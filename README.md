@@ -1,6 +1,6 @@
 ## Hi I'm Alex <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Alex and a Junior Full Stack Software Developer. I am a Quality Engineer converted to Coder. I really enjoy working in React and Java, but am keen to learn as many languages and frameworks that I can.
+I am a Quality Engineer converted Full Stack Software Developer. I really enjoy working in React and Java, but am keen to learn as many languages and frameworks that I can.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-wower-cssgb-82b462a2/?originalSubdomain=uk)
 
