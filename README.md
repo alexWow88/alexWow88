@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Alex and I am a Junior Software Developer. I am a Quality Engineer converted to Coder. I really enjoy working in React and Java, but am keen to learn as many languages and frameworks that I can.
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexWow88&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexWow88&langs_count=5&theme=tokyonight)]()
+
+
 <!--
 **alexWow88/alexWow88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
